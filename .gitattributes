@@ -1,0 +1,8 @@
+/.* export-ignore
+/lib/phlylabs/example.php export-ignore
+/build.xml export-ignore
+/CHANGLELOG export-ignore
+/phpunit.xml.dist export-ignore
+/README.md export-ignore
+/travis.phpunit.xml export-ignore
+/tests export-ignore
